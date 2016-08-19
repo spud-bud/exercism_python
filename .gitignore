@@ -1,0 +1,4 @@
+*.pyc
+*test.py
+*.cache/
+.DS-store

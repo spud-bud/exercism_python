@@ -1,4 +1,4 @@
 *.pyc
 *test.py
 *.cache/
-.DS-store
+.DS_Store
